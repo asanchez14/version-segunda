@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <figure>
+            <head> Preguntas a un recuerdo</head>
+            <figDesc>Escrito en prosa cuyo contenido aparece luego en el poema "Preguntas a un recuerdo", pertenciente al poemario Hola, soledad que se escribió entre 1985 y 1987. La diferencia con un documento que contiene el mismo poema son cambios en el orden y algunas omisiones también con respecto a la versión publicada. </figDesc>
+            <graphic url="Hoja 35 (cara).png"/>
+         </figure>
+      <fileDesc>
+         <titleStmt>
+            <title> Preguntas a un recuerdo </title>
+         </titleStmt>
+         <publicationStmt>
+            <p> María Mercedes Carranza </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p> </p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <lg>
+            <l> El recuerdo no es un viejo mueble dejado en cualquier sitio </l>
+            <l> que solo se mira a veces al pasar, se roza de cuando en <add> cuando </add></l>
+            <l> y se limpia el polvo alguna tarde. </l>            
+         </lg>
+         <lg> 
+            <l> el recuerdo tiene vida, respira, busca, acecha. </l>
+            <l> recoge cosas por el camino </l> 
+            <l> recoge cosas por el camino </l>
+         </lg>
+      </body>
+  </text>
+</TEI>
